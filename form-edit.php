@@ -68,9 +68,6 @@
             </form>
         </div>
     </div>
-    <footer>
-        <h6>&copy All Rights Reserved.</h6>
-    </footer>
 </body>
 
 </html>
