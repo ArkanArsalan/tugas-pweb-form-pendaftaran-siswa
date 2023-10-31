@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class=" formContainer" style="margin-top: auto; margin-bottom: auto;">
+    <div class="container" style="margin-top: auto; margin-bottom: auto;">
             <h1>Pendaftaran Siswa Baru </h1>
             <br><br>
 

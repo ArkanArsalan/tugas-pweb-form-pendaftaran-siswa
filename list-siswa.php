@@ -16,7 +16,7 @@
     <a href="index.php" class="btn btn-primary btn-xs col-md-1" id="back-button">Back</a>
     <h1>List Daftar Calon Siswa</h1>
 
-    <div class=" container" style="margin-top:20px; margin-bottom: 40px">
+    <div class="container" style="margin-top:20px; margin-bottom: 40px">
             <div class="col-md-12 col-md-offset-2 custyle">
                 <table class="table table-striped custab">
                     <thead>
